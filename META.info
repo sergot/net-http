@@ -1,0 +1,7 @@
+{
+        "name" : "Net::HTTP",
+        "version" : "*",
+        "description" : "Low level HTTP client",
+        "depends" : [],
+        "source-url" : "git://github.com/sergot/net-http.git"
+}
